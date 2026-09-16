@@ -6,3 +6,5 @@ __pycache__/
 .venv/
 outputs/
 workspace/
+dist/
+.ad-gtm-backups/

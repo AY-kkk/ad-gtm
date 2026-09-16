@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance 2.0"
+  short_description: "视频广告与模型商业化技能库：Seedance 2.0，交付2.0 任务、素材映射与提示词"
+  default_prompt: "使用 $ad-seedance-20，根据我提供的资料完成2.0 任务、素材映射与提示词。"

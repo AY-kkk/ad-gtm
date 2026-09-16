@@ -1,0 +1,118 @@
+{
+  "version": "0.2.0",
+  "skills": [
+    {
+      "name": "ad-gtm",
+      "title": "任务导航",
+      "group": "导航",
+      "outcome": "跨阶段任务路径与交付衔接"
+    },
+    {
+      "name": "ad-brief",
+      "title": "需求与卖点",
+      "group": "广告创作",
+      "outcome": "有证据的广告 brief"
+    },
+    {
+      "name": "ad-creative",
+      "title": "创意与脚本",
+      "group": "广告创作",
+      "outcome": "创意方向、脚本与变体"
+    },
+    {
+      "name": "ad-storyboard",
+      "title": "分镜与素材",
+      "group": "广告制作",
+      "outcome": "镜头时间轴与制作包"
+    },
+    {
+      "name": "ad-seedance-20",
+      "title": "Seedance 2.0",
+      "group": "模型适配",
+      "outcome": "2.0 任务、素材映射与提示词"
+    },
+    {
+      "name": "ad-seedance-25",
+      "title": "Seedance 2.5",
+      "group": "模型适配",
+      "outcome": "2.5 连续演示与编辑任务"
+    },
+    {
+      "name": "ad-review",
+      "title": "广告验收",
+      "group": "质量与实验",
+      "outcome": "检查结论与返工清单"
+    },
+    {
+      "name": "ad-experiment",
+      "title": "素材实验",
+      "group": "质量与实验",
+      "outcome": "实验设计与投放数据复盘"
+    },
+    {
+      "name": "ad-discovery",
+      "title": "客户诊断",
+      "group": "模型商业化",
+      "outcome": "客户问题与优先试点场景"
+    },
+    {
+      "name": "ad-poc",
+      "title": "试点与成本",
+      "group": "模型商业化",
+      "outcome": "对照试点与合格成片成本"
+    },
+    {
+      "name": "ad-scale",
+      "title": "商业落地",
+      "group": "模型商业化",
+      "outcome": "商业方案、采购与扩量计划"
+    }
+  ],
+  "packs": {
+    "all": [
+      "ad-gtm",
+      "ad-brief",
+      "ad-creative",
+      "ad-storyboard",
+      "ad-seedance-20",
+      "ad-seedance-25",
+      "ad-review",
+      "ad-experiment",
+      "ad-discovery",
+      "ad-poc",
+      "ad-scale"
+    ],
+    "creative": [
+      "ad-gtm",
+      "ad-brief",
+      "ad-creative",
+      "ad-storyboard",
+      "ad-review",
+      "ad-experiment"
+    ],
+    "seedance20": [
+      "ad-gtm",
+      "ad-brief",
+      "ad-creative",
+      "ad-storyboard",
+      "ad-review",
+      "ad-experiment",
+      "ad-seedance-20"
+    ],
+    "seedance25": [
+      "ad-gtm",
+      "ad-brief",
+      "ad-creative",
+      "ad-storyboard",
+      "ad-review",
+      "ad-experiment",
+      "ad-seedance-25"
+    ],
+    "commercial": [
+      "ad-gtm",
+      "ad-discovery",
+      "ad-poc",
+      "ad-scale"
+    ]
+  }
+}

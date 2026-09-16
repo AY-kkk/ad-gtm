@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业落地"
+  short_description: "视频广告与模型商业化技能库：商业落地，交付商业方案、采购与扩量计划"
+  default_prompt: "使用 $ad-scale，根据我提供的资料完成商业方案、采购与扩量计划。"

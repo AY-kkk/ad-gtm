@@ -1,0 +1,4 @@
+interface:
+  display_name: "素材实验"
+  short_description: "视频广告与模型商业化技能库：素材实验，交付实验设计与投放数据复盘"
+  default_prompt: "使用 $ad-experiment，根据我提供的资料完成实验设计与投放数据复盘。"

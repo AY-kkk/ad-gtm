@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务导航"
+  short_description: "视频广告与模型商业化技能库：任务导航，交付跨阶段任务路径与交付衔接"
+  default_prompt: "使用 $ad-gtm，根据我提供的资料完成跨阶段任务路径与交付衔接。"

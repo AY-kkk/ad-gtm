@@ -1,0 +1,4 @@
+interface:
+  display_name: "创意与脚本"
+  short_description: "视频广告与模型商业化技能库：创意与脚本，交付创意方向、脚本与变体"
+  default_prompt: "使用 $ad-creative，根据我提供的资料完成创意方向、脚本与变体。"
