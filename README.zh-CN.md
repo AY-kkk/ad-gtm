@@ -168,10 +168,4 @@ evals/        触发、边界和交接评测用例
 tests/        安装、打包和完整性测试
 ```
 
-## 参与建设
-
-欢迎补充有独立使用场景的 Skill、模型适配、案例与评测。新增模块需有输入、步骤、输出、边界和完成标准，见[贡献规范](CONTRIBUTING.md)。
-
-仓库组织参考了 [Cangjie Skill](https://github.com/kangarooking/cangjie-skill) 对独立技能、组合路径、示例与评测的呈现方式。本库的广告与 GTM 方法按自身任务编写。
-
 [MIT License](LICENSE)。本项目独立于模型厂商；模型服务与用户素材适用各自的条款和授权。

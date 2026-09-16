@@ -10,7 +10,7 @@
 ### From product facts to video ads, and from model pilots to commercial rollout.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version: 0.2.1](https://img.shields.io/badge/Version-0.2.1-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.2.1)
+[![Version: 0.2.2](https://img.shields.io/badge/Version-0.2.2-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.2.2)
 [![Skills: 11](https://img.shields.io/badge/Skills-11-8b5cf6.svg)](./registry/skills.json)
 [![Seedance: 2.0%20%7C%202.5](https://img.shields.io/badge/Seedance-2.0%20%7C%202.5-f97316.svg)](./docs/model-support.md)
 
