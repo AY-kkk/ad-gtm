@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0 — 2026-09-16
+
+- Added an offline benchmark calculator with denominator-safe metrics and comparability checks.
+- Added Douyin, TikTok, YouTube Shorts, and Instagram Reels planning briefs.
+- Added local video preflight with `ffprobe` and macOS `mdls` fallback; unavailable checks remain `not_run`.
+- Connected platform briefs to `ad-storyboard` and technical preflight to `ad-review`.
+
 ## 0.3.1 — 2026-09-16
 
 - Expanded the style library from 9 to 17 mechanism-based direction cards.

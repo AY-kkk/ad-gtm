@@ -141,6 +141,8 @@ python3 scripts/skills.py install --pack all --target ~/.codex/skills --replace
 
 创意阶段可查阅包含 17 个机制型风格卡的[代表性广告风格库](skills/ad-creative/references/style-library.md)：苹果发布会式极简、重复记忆型广告、Nike 式普通人潜能、Dove 式真实人物、荒诞喜剧、日常功能证明、动作能量、价值与证据、安静产品、UGC 自拍、专家讲解、纪录片、B2B 工作流、动态图形、对比测评、奢侈品大片和平台原生趋势等。风格库提炼传播机制，不复制广告语、音乐、角色或镜头。
 
+无需视频生成 API 也可以使用[离线 benchmark](benchmarks/README.md)、[平台专项 brief](skills/ad-storyboard/references/platforms/README.md)和[本地视频预检](scripts/video_inspect.py)。它们分别处理数据口径、渠道制作约束和文件技术信息；预检支持 `ffprobe`，macOS 还可回退到 `mdls`，无法检查的项目明确记为 `not_run`。
+
 ## Seedance 2.0 与 2.5 如何适配
 
 两版使用共用的广告策略、创意、分镜、验收和 GTM 模块；制作时加载对应的独立 Skill。

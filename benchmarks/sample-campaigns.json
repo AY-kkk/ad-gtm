@@ -1,0 +1,40 @@
+{
+  "campaigns": [
+    {
+      "campaign_id": "synthetic-organizer-001",
+      "asset_id": "opening-problem",
+      "platform": "short-video-feed",
+      "objective": "click",
+      "audience": "new-users",
+      "date_range": "synthetic",
+      "attribution_window": "7d-click",
+      "data_status": "synthetic",
+      "source": "teaching-fixture",
+      "spend": 100,
+      "impressions": 1000,
+      "clicks": 20,
+      "conversions": 0,
+      "revenue": 0,
+      "production_cost": 80,
+      "accepted_outputs": 1
+    },
+    {
+      "campaign_id": "synthetic-organizer-001",
+      "asset_id": "opening-result",
+      "platform": "short-video-feed",
+      "objective": "click",
+      "audience": "new-users",
+      "date_range": "synthetic",
+      "attribution_window": "7d-click",
+      "data_status": "synthetic",
+      "source": "teaching-fixture",
+      "spend": 100,
+      "impressions": 1000,
+      "clicks": 30,
+      "conversions": 1,
+      "revenue": 120,
+      "production_cost": 80,
+      "accepted_outputs": 1
+    }
+  ]
+}
