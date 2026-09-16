@@ -10,7 +10,7 @@
 ### From product facts to video ads, and from model pilots to commercial rollout.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version: 0.3.0](https://img.shields.io/badge/Version-0.3.0-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.3.0)
+[![Version: 0.3.1](https://img.shields.io/badge/Version-0.3.1-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.3.1)
 [![Skills: 11](https://img.shields.io/badge/Skills-11-8b5cf6.svg)](./registry/skills.json)
 [![Seedance: 2.0%20%7C%202.5](https://img.shields.io/badge/Seedance-2.0%20%7C%202.5-f97316.svg)](./docs/model-support.md)
 
@@ -129,7 +129,7 @@ Do not select a version from the number alone. Record the provider, service, reg
 - [Product ad example](examples/product-ad.md) shows a synthetic organizer-ad brief, two openings, a 15-second storyboard, and a Seedance 2.0 task.
 - [Model pilot example](examples/model-pilot.md) shows a synthetic discovery-to-PoC-to-rollout path and a unit-cost calculation.
 - [Gaokao volunteer GTM case](examples/gaokao-volunteer-gtm.md) is a user-provided creative production sample. It is marked `not_run` for media performance, model proof, and rights verification.
-- [Representative style library](skills/ad-creative/references/style-library.md) turns recognizable advertising mechanics into reusable, rights-aware direction cards.
+- [Representative style library](skills/ad-creative/references/style-library.md) contains 17 mechanism-based, rights-aware direction cards.
 - [Evaluation cases](evals/cases.json) cover routing, evidence boundaries, model capability claims, review, experiments, and commercialization. They are test prompts, not completed model or media results.
 
 Run structural checks and packaging tests with:

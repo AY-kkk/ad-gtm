@@ -139,7 +139,7 @@ python3 scripts/skills.py install --pack all --target ~/.codex/skills --replace
 
 完整内容见[产品广告示例](examples/product-ad.md)。另有[模型客户 PoC 示例](examples/model-pilot.md)，展示如何从生产瓶颈走到可验收的商业试点；以及[高考志愿填报创意展示案例](examples/gaokao-volunteer-gtm.md)，这是案例提供方提交的真实样片，仅作为创意制作展示。案例页明确标注了未运行的投放效果、模型证明和权利核验范围。
 
-创意阶段可查阅[代表性广告风格库](skills/ad-creative/references/style-library.md)：苹果发布会式极简、重复记忆型广告、Nike 式普通人潜能、Dove 式真实人物、荒诞喜剧、日常功能证明、动作能量、价值与证据、安静产品等。风格库提炼传播机制，不复制广告语、音乐、角色或镜头。
+创意阶段可查阅包含 17 个机制型风格卡的[代表性广告风格库](skills/ad-creative/references/style-library.md)：苹果发布会式极简、重复记忆型广告、Nike 式普通人潜能、Dove 式真实人物、荒诞喜剧、日常功能证明、动作能量、价值与证据、安静产品、UGC 自拍、专家讲解、纪录片、B2B 工作流、动态图形、对比测评、奢侈品大片和平台原生趋势等。风格库提炼传播机制，不复制广告语、音乐、角色或镜头。
 
 ## Seedance 2.0 与 2.5 如何适配
 

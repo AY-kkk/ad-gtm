@@ -9,6 +9,16 @@ Use this library to choose a communication system, not to copy a brand's script,
 3. State what stays fixed across variants: product facts, offer, CTA, duration, and media placement.
 4. Mark legal, rights, and claim review as open when the source or asset is not verified.
 
+## Quick selection index
+
+| Communication job | Start with | Main trade-off |
+| --- | --- | --- |
+| Make a product feel precise and premium | `apple-keynote-minimal`, `luxury-editorial`, `muji-quiet-object` | Clarity can fall if the proof is too subtle |
+| Make one proposition memorable | `repetition-memory`, `social-native-trend` | Recall can become fatigue or short-lived attention |
+| Build trust through people | `dove-real-people`, `ugc-selfie-proof`, `documentary-human-story` | Consent, authenticity, and claim boundaries need more work |
+| Explain a workflow or feature | `ikea-everyday-proof`, `founder-expert-explain`, `b2b-workflow-demo`, `motion-graphic-explainer` | More explanation can reduce first-second impact |
+| Create high attention and energy | `old-spice-absurdity`, `red-bull-action`, `comparison-challenge` | Spectacle can hide the product or introduce safety risk |
+
 ## Style cards
 
 ### `apple-keynote-minimal`
@@ -104,6 +114,86 @@ Use this library to choose a communication system, not to copy a brand's script,
 - **Avoid:** Empty minimalism that hides price, function, or a weak CTA.
 - **Production constraint:** Lighting and material fidelity carry the message; test compression on subtle textures.
 - **Test variable:** Silent product ritual versus soft narration.
+
+### `ugc-selfie-proof`
+
+- **Strategic job:** Reduce distance by showing a person using the product in a feed-native context.
+- **Visual grammar:** Handheld framing, direct address, visible setup and result, captions that carry the key step.
+- **Copy and audio:** Conversational language; label a scripted demonstration and use a real testimonial only with consent.
+- **Good fit:** Apps, commerce, beauty, food, creator tools, and products with a quick first-use payoff.
+- **Avoid:** Fake reviews, fabricated “viral” framing, undisclosed incentives, or claims based only on one person's outcome.
+- **Production constraint:** Protect faces, screens, and subtitles in the safe area; record clean voice and a captioned fallback.
+- **Test variable:** Selfie hook versus product close-up hook.
+
+### `founder-expert-explain`
+
+- **Strategic job:** Turn expertise or product rationale into confidence for a considered purchase.
+- **Visual grammar:** Speaker-led opening, concrete object or screen demonstration, proof insert, and a specific next step.
+- **Copy and audio:** Explain one mechanism in plain language; separate expert opinion, product fact, and regulated advice.
+- **Good fit:** B2B, education, finance-adjacent tools, software, and technical products with a named expert.
+- **Avoid:** Borrowed credentials, unsupported authority, dense jargon, or a speaker who cannot verify the claim.
+- **Production constraint:** Prepare a fact sheet, pronunciation and subtitle review, and a cutdown without the speaker.
+- **Test variable:** Problem explanation versus live demonstration as the opening.
+
+### `documentary-human-story`
+
+- **Strategic job:** Make a problem and its stakes feel specific through a real person's context.
+- **Visual grammar:** Observational footage, environmental detail, natural pauses, a small turning point, and restrained branding.
+- **Copy and audio:** Participant-owned language with consent; do not turn a composite or actor into a real customer.
+- **Good fit:** Education, health-adjacent services, community products, nonprofits, and high-trust categories.
+- **Avoid:** Emotional manipulation, privacy exposure, or a transformation claim that has no follow-up evidence.
+- **Production constraint:** Releases, sensitive-data review, subtitles, and continuity across locations are mandatory planning items.
+- **Test variable:** Person-first opening versus problem-first opening.
+
+### `b2b-workflow-demo`
+
+- **Strategic job:** Show how a product removes a costly step from a professional workflow.
+- **Visual grammar:** Role and task in the first beat, screen or system state, before/after handoff, and measurable but sourced proof.
+- **Copy and audio:** Name the user, task, and output; keep implementation claims separate from product capability claims.
+- **Good fit:** SaaS, APIs, developer tools, operations, and procurement-led products.
+- **Avoid:** Fake dashboards, invented customer logos, unsourced efficiency numbers, or hiding human review.
+- **Production constraint:** Use approved demo data and recreate UI text in post when generation may distort it.
+- **Test variable:** Workflow pain opening versus finished-output opening.
+
+### `motion-graphic-explainer`
+
+- **Strategic job:** Make an abstract process, system, or offer understandable in a short runtime.
+- **Visual grammar:** Icon or shape system, progressive reveal, labeled transitions, and a strong end-state diagram.
+- **Copy and audio:** Short labels and a measured voiceover; every number and causal statement needs a source.
+- **Good fit:** Fintech education, APIs, logistics, subscriptions, and products whose value is invisible on camera.
+- **Avoid:** Decorative motion without a user action, unreadable microtext, or animation that implies unsupported certainty.
+- **Production constraint:** Generate backgrounds or transitions only; compose exact text, charts, and UI deterministically in post.
+- **Test variable:** Diagram-first opening versus user-problem opening.
+
+### `comparison-challenge`
+
+- **Strategic job:** Make a product difference legible through a controlled comparison or task.
+- **Visual grammar:** Same setup, same timer or criteria, clear labels, result frame, and a qualified CTA.
+- **Copy and audio:** State the test method and date; distinguish a demonstration from a statistically valid study.
+- **Good fit:** Productivity, consumer goods, tools, and products with observable speed, quality, or convenience differences.
+- **Avoid:** Cherry-picked controls, competitor disparagement, hidden assistance, or a single run presented as proof.
+- **Production constraint:** Lock conditions and measurement definitions before filming; keep legal review in the shot list.
+- **Test variable:** Timed task versus side-by-side outcome.
+
+### `luxury-editorial`
+
+- **Strategic job:** Create desire through material, craft, scarcity, and point of view.
+- **Visual grammar:** Sculpted light, deliberate pace, tactile macro shots, visual metaphor, and a quiet brand signature.
+- **Copy and audio:** Few precise words; music and talent rights are part of the concept, not postscript.
+- **Good fit:** Fashion, jewelry, automotive, hospitality, and premium design.
+- **Avoid:** Empty gloss, borrowed campaign codes, artificial scarcity, or a price and availability CTA that disappears.
+- **Production constraint:** Product color, texture, and logo geometry need frame-level review after generation and compression.
+- **Test variable:** Craft detail opening versus lifestyle world opening.
+
+### `social-native-trend`
+
+- **Strategic job:** Earn early attention by using a current platform-native behavior while preserving the product message.
+- **Visual grammar:** Fast hook, native captions, comment or remix affordance, compact payoff, and a repeatable closing frame.
+- **Copy and audio:** Use cleared audio and explain the trend assumption; the ad must remain understandable when the trend expires.
+- **Good fit:** Consumer apps, entertainment, retail, games, and creator-led launches.
+- **Avoid:** Copying a creator's identity, using unlicensed music, deceptive “organic” comments, or chasing a trend unrelated to the product.
+- **Production constraint:** Record a timeless fallback cut and define the trend's expiry check before launch.
+- **Test variable:** Trend-native opening versus evergreen product opening.
 
 ## Rights and attribution boundary
 
