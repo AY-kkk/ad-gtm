@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.1 — 2026-09-16
+
+- Removed the incomplete local video preflight prototype from the public package.
+- Kept the complete offline benchmark and platform planning briefs.
+- Moved full decoded-frame, OCR, and ASR inspection to the roadmap until implementation and tests are complete.
+
 ## 0.4.0 — 2026-09-16
 
 - Added an offline benchmark calculator with denominator-safe metrics and comparability checks.

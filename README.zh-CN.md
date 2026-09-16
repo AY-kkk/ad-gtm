@@ -5,7 +5,7 @@
 
 # Ad GTM Skills
 
-### 从产品资料到视频广告，从客户试点到模型商业化。
+### 把产品资料变成能验收、能测试、能规模化的视频广告。
 
 **Ad GTM 是一套面向 AI 视频广告的 Agent 技能库，包含 1 个任务导航与 10 个专项 Skill。** 帮助品牌、代理商与创作者完成卖点梳理、创意脚本、分镜、Seedance 制作、验收和素材测试；帮助模型产品、销售与解决方案团队完成客户诊断、PoC、成本评估和商业落地。
 
@@ -141,7 +141,7 @@ python3 scripts/skills.py install --pack all --target ~/.codex/skills --replace
 
 创意阶段可查阅包含 17 个机制型风格卡的[代表性广告风格库](skills/ad-creative/references/style-library.md)：苹果发布会式极简、重复记忆型广告、Nike 式普通人潜能、Dove 式真实人物、荒诞喜剧、日常功能证明、动作能量、价值与证据、安静产品、UGC 自拍、专家讲解、纪录片、B2B 工作流、动态图形、对比测评、奢侈品大片和平台原生趋势等。风格库提炼传播机制，不复制广告语、音乐、角色或镜头。
 
-无需视频生成 API 也可以使用[离线 benchmark](benchmarks/README.md)、[平台专项 brief](skills/ad-storyboard/references/platforms/README.md)和[本地视频预检](scripts/video_inspect.py)。它们分别处理数据口径、渠道制作约束和文件技术信息；预检支持 `ffprobe`，macOS 还可回退到 `mdls`，无法检查的项目明确记为 `not_run`。
+无需视频生成 API 也可以使用[离线 benchmark](benchmarks/README.md)和[平台专项 brief](skills/ad-storyboard/references/platforms/README.md)，分别处理数据口径和渠道制作约束。
 
 ## Seedance 2.0 与 2.5 如何适配
 

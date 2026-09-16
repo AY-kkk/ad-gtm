@@ -7,14 +7,14 @@
 
 # Ad GTM Skills
 
-### From product facts to video ads, and from model pilots to commercial rollout.
+### Ship defensible AI video ads. Prove the workflow. Scale the model.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version: 0.4.0](https://img.shields.io/badge/Version-0.4.0-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.4.0)
+[![Version: 0.4.1](https://img.shields.io/badge/Version-0.4.1-2ea44f.svg)](https://github.com/AY-kkk/ad-gtm/releases/tag/v0.4.1)
 [![Skills: 11](https://img.shields.io/badge/Skills-11-8b5cf6.svg)](./registry/skills.json)
 [![Seedance: 2.0%20%7C%202.5](https://img.shields.io/badge/Seedance-2.0%20%7C%202.5-f97316.svg)](./docs/model-support.md)
 
-**Ad GTM is a collection of 11 callable Agent Skills for AI video advertising and video-model commercialization.**
+**Ad GTM is a collection of 11 callable Agent Skills that turns product facts into reviewable, testable video ads—and turns model pilots into commercial GTM.**
 
 </div>
 
@@ -132,7 +132,6 @@ Do not select a version from the number alone. Record the provider, service, reg
 - [Representative style library](skills/ad-creative/references/style-library.md) contains 17 mechanism-based, rights-aware direction cards.
 - [Offline benchmark](benchmarks/README.md) calculates denominator-safe experiment metrics from a permissioned JSON export.
 - [Platform briefs](skills/ad-storyboard/references/platforms/README.md) provide channel-specific planning fields without hard-coding changing platform rules.
-- [Video preflight](scripts/video_inspect.py) inspects local metadata with `ffprobe` or macOS `mdls` and marks unavailable checks `not_run`.
 - [Evaluation cases](evals/cases.json) cover routing, evidence boundaries, model capability claims, review, experiments, and commercialization. They are test prompts, not completed model or media results.
 
 Run structural checks and packaging tests with:
