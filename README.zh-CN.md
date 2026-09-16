@@ -9,7 +9,7 @@
 
 **Ad GTM 是一套面向 AI 视频广告的 Agent 技能库，包含 1 个任务导航与 10 个专项 Skill。** 帮助品牌、代理商与创作者完成卖点梳理、创意脚本、分镜、Seedance 制作、验收和素材测试；帮助模型产品、销售与解决方案团队完成客户诊断、PoC、成本评估和商业落地。
 
-[技能地图](#技能地图) · [快速开始](#快速开始) · [广告示例](examples/product-ad.md) · [客户 PoC 示例](examples/model-pilot.md) · [参与贡献](CONTRIBUTING.md)
+[技能地图](#技能地图) · [快速开始](#快速开始) · [广告示例](examples/product-ad.md) · [高考志愿案例](examples/gaokao-volunteer-gtm.md) · [风格库](skills/ad-creative/references/style-library.md)
 
 ## 用它解决什么问题
 
@@ -137,7 +137,9 @@ python3 scripts/skills.py install --pack all --target ~/.codex/skills --replace
 4. 模型制作包：参考映射、分段提示词、商品禁改项及后期文字。
 5. 验收与实验计划：检查结构与操作，比较开头对主要指标的影响。
 
-完整内容见[产品广告示例](examples/product-ad.md)。另有[模型客户 PoC 示例](examples/model-pilot.md)，展示如何从生产瓶颈走到可验收的商业试点。两者均为教学用合成案例，不是客户实绩或模型实测。
+完整内容见[产品广告示例](examples/product-ad.md)。另有[模型客户 PoC 示例](examples/model-pilot.md)，展示如何从生产瓶颈走到可验收的商业试点；以及[高考志愿填报创意展示案例](examples/gaokao-volunteer-gtm.md)，这是案例提供方提交的真实样片，仅作为创意制作展示。案例页明确标注了未运行的投放效果、模型证明和权利核验范围。
+
+创意阶段可查阅[代表性广告风格库](skills/ad-creative/references/style-library.md)：苹果发布会式极简、重复记忆型广告、Nike 式普通人潜能、Dove 式真实人物、荒诞喜剧、日常功能证明、动作能量、价值与证据、安静产品等。风格库提炼传播机制，不复制广告语、音乐、角色或镜头。
 
 ## Seedance 2.0 与 2.5 如何适配
 
@@ -161,7 +163,7 @@ python3 scripts/skills.py install --pack all --target ~/.codex/skills --replace
 ```text
 skills/       11 个可独立安装的 Skill，参考资料和模板随模块分发
 registry/     技能目录、版本与安装组合
-examples/     产品广告与客户 PoC 完整示例
+examples/     产品广告、客户 PoC 与高考志愿创意案例
 docs/         工作流交接与模型支持说明
 scripts/      列表、校验、安装与打包工具
 evals/        触发、边界和交接评测用例
@@ -169,3 +171,5 @@ tests/        安装、打包和完整性测试
 ```
 
 [MIT License](LICENSE)。本项目独立于模型厂商；模型服务与用户素材适用各自的条款和授权。
+
+[版本记录](CHANGELOG.md) · [后续路线](ROADMAP.md)
